@@ -1,5 +1,6 @@
 validation=True
 
+# Functions to validate the price and quantity inputs
 def numericalValidationFloat():
     while validation:   #Loop to validate the price and quantity inputs
         try:
